@@ -1,0 +1,9 @@
+4Rook_Black,6Knight_Black,6Bishop_Black,5Queen_Black,4King_Black,6Bishop_Black,-,4Rook_Black
+4Pawn_Black_0,4Pawn_Black_0,4Pawn_Black_0,4Pawn_Black_0,-,4Pawn_Black_0,4Pawn_Black_0,4Pawn_Black_0
+-,-,-,-,4Pawn_Black_1,-,-,6Knight_Black
+-,-,-,-,-,-,-,-
+-,-,-,-,-,-,4Pawn_White_1,-
+-,-,-,-,-,4Pawn_White_1,-,-
+4Pawn_White_0,4Pawn_White_0,4Pawn_White_0,4Pawn_White_0,4Pawn_White_0,-,-,4Pawn_White_0
+4Rook_White,6Knight_White,6Bishop_White,5Queen_White,4King_White,6Bishop_White,6Knight_White,4Rook_White
+White
